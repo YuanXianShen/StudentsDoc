@@ -1,0 +1,26 @@
+{
+  "name": "StudentsDoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuanXianShen/StudentsDoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuanXianShen/StudentsDoc/issues"
+  },
+  "homepage": "https://github.com/YuanXianShen/StudentsDoc#readme",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "mongoose": "^5.12.4",
+    "router": "^1.3.5",
+    "serve-static": "^1.14.1"
+  }
+}
